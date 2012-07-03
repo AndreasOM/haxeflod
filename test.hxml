@@ -1,0 +1,10 @@
+-main NeoartFlodTest
+-swf neoart-flod-test.swf
+-swf-version 10.1
+-swf-header 640:480:30:a0a0e0
+-swf-lib lib/neoart-flod.swf
+
+-cp src
+-cp lib
+
+-resource data/test.mod.zip@test-mod-zip
