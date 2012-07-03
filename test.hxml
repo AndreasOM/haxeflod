@@ -7,4 +7,4 @@
 -cp src
 -cp lib
 
--resource data/test.mod.zip@test-mod-zip
+-resource data/aurora.mod.zip@test-mod-zip
